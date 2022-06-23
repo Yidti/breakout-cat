@@ -12,7 +12,7 @@ python3.10 main.py
 
 ## Examples
 
-![sample-1](https://github.com/Yidti/typing-cat/blob/master/sample/sample-1.png)
+![sample-1](https://github.com/Yidti/breakout-cat/blob/master/sample/sample-1.png)
 
 ## Introduction - [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
